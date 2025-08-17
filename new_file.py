@@ -6,3 +6,4 @@ if __name__ == "__main__":
     main()
 
 print("Hello")
+print("this is my new page")
